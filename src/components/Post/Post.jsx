@@ -1,6 +1,6 @@
-/* eslint-disable no-undef */
 /* eslint-disable react/prop-types */
-import { Link, Navigate, useNavigate, useNavigation } from "react-router-dom";
+
+import { Link, useNavigate,} from "react-router-dom";
 
 const Post = ({ post }) => {
   const { id, title } = post;
