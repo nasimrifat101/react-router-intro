@@ -1,0 +1,4 @@
+nav a.active{
+    text-decoration: line-through;
+    color: rgb(21, 125, 90);
+}
